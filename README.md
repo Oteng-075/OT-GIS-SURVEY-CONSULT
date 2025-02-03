@@ -8,9 +8,9 @@ To be a global leader in GIS and surveying consult, recognized for excellence, a
 ## Mission
 Our mission is to provide innovative and reliable GIS and surveying solutions that empower individuals, organizations, and communities to make informed decisions. We aim to deliver precise geospatial data, cutting-edge mapping technologies, and exceptional consulting services to support sustainable development, infrastructure planning, and environmental management.
 
-# 
+# Services
 
-1. Geodata Research
+*Geodata Research
 Geodata research involves the study and investigation of geographic data (geodata), which includes spatial and location-based information about the Earth's surface and phenomena. This research may focus on the collection, processing, analysis, and interpretation of geospatial data to understand patterns, relationships, and trends across various fields, such as urban planning, environmental science, disaster management, and infrastructure development.
 
 2. Geodata Analysis
