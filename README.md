@@ -52,8 +52,8 @@ GIS (Geographic Information Systems) training involves teaching individuals or g
 ## Data Sources
 Here in **OT GIS AND SURVEY CONSULT** the data we use are both obtained through a primary and secondary application.
 
-  - **Primary Datasource:** This involves capturing data from the field of the study area like traditional surveying
-  - **Secondary Datasoure:** This is leveraging on other datasources such as satellite imagery , websites and data portals
+  - **Primary Data Source:** This involves capturing data from the field of the study area like traditional surveying
+  - **Secondary Data Soure:** This is leveraging on other datasources such as satellite imagery , websites and data portals
 ---
 
 ## Contact
