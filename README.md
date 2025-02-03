@@ -61,6 +61,7 @@ Please for any assistance and further engagement kindly reach us on the followin
   -  Facebook: OTGisandSurveying 
   -  Instagram: OTgis_and_surveying
   -  Twitter/X: OTGISSurveying_
+  -  Call/Whatsapp :+233 544 845 827
 ---
     
     
