@@ -65,5 +65,6 @@ Please for any assistance and further engagement kindly reach us on the followin
   -  Call/Whatsapp :+233 544 845 827
 ---
     
+![IMG-20250130-WA0063](https://github.com/user-attachments/assets/768065b3-6f04-4128-a6cd-c1a5c64e2d0f)
     
   
