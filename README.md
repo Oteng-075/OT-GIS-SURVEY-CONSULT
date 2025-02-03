@@ -1,7 +1,8 @@
 # OT-GIS-SURVEY-CONSULT
 This is a brief information about the firm OT GIS AND SURVEY CONSULT
 ---
-
+About Us:
+OT GIS AND 
 ## Vision
 To be a global leader in GIS and surveying consult, recognized for excellence, accuracy, and innovation. We strive to contribute to a world where geospatial insights drive smarter planning, efficient resource management, and a better understanding of our planet's dynamic environment.
 
@@ -49,7 +50,7 @@ GIS (Geographic Information Systems) training involves teaching individuals or g
 ---
 
 ## Data Sources
-Here in OT GIS AND SURVEY CONSULT the data we use are both obtained through a primary and secondary application.
+Here in **OT GIS AND SURVEY CONSULT** the data we use are both obtained through a primary and secondary application.
 
   - **Primary Datasource:** This involves capturing data from the field of the study area like traditional surveying
   - **Secondary Datasoure:** This is leveraging on other datasources such as satellite imagery , websites and data portals
