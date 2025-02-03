@@ -8,7 +8,7 @@ To be a global leader in GIS and surveying consult, recognized for excellence, a
 ## Mission
 Our mission is to provide innovative and reliable GIS and surveying solutions that empower individuals, organizations, and communities to make informed decisions. We aim to deliver precise geospatial data, cutting-edge mapping technologies, and exceptional consulting services to support sustainable development, infrastructure planning, and environmental management.
 
-# Services
+## Services
 
 - ### Geodata Research
 Geodata research involves the study and investigation of geographic data (geodata), which includes spatial and location-based information about the Earth's surface and phenomena. This research may focus on the collection, processing, analysis, and interpretation of geospatial data to understand patterns, relationships, and trends across various fields, such as urban planning, environmental science, disaster management, and infrastructure development.
@@ -29,3 +29,7 @@ Land surveying is the process of measuring and mapping the physical features of 
 GIS (Geographic Information Systems) training involves teaching individuals or groups how to effectively use GIS software, tools, and techniques for spatial data management, analysis, and visualization. This training typically covers topics such as geospatial data collection, mapping, spatial analysis, database management, and the use of GIS tools like ArcGIS, QGIS, or similar platforms. GIS training is essential for professionals in fields like urban planning, environmental science, natural resource management, and disaster response.
 
 ---
+
+## Data Sources
+Here in *OT GIS AND SURVEY CONSULT* the data we use are both obtained through a primary and secondary application
+  
