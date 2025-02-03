@@ -8,6 +8,24 @@ To be a global leader in GIS and surveying consult, recognized for excellence, a
 ## Mission
 Our mission is to provide innovative and reliable GIS and surveying solutions that empower individuals, organizations, and communities to make informed decisions. We aim to deliver precise geospatial data, cutting-edge mapping technologies, and exceptional consulting services to support sustainable development, infrastructure planning, and environmental management.
 
+## Core Values
+
+1. Excellence: Commitment to delivering high-quality geospatial services that exceed expectations.
+
+2. Integrity: Operating with honesty, professionalism, and transparency in every project.
+
+3. Innovation: Leveraging advanced technology and creative approaches to solve complex challenges.
+
+4. Sustainability: Supporting environmentally sound planning and development for a better future.
+
+5. Collaboration: Building strong partnerships with clients, stakeholders, and communities.
+
+6. Reliability: Ensuring consistent, accurate, and timely delivery of all services.
+
+7. Client-Centricity: Focusing on understanding and exceeding client expectations.
+
+---
+
 ## Services
 
 - ### Geodata Research
@@ -31,5 +49,19 @@ GIS (Geographic Information Systems) training involves teaching individuals or g
 ---
 
 ## Data Sources
-Here in *OT GIS AND SURVEY CONSULT* the data we use are both obtained through a primary and secondary application
+Here in OT GIS AND SURVEY CONSULT the data we use are both obtained through a primary and secondary application.
+
+  - **Primary Datasource:** This involves capturing data from the field of the study area like traditional surveying
+  - **Secondary Datasoure:** This is leveraging on other datasources such as satellite imagery , websites and data portals
+---
+
+## Contact
+Please for any assistance and further engagement kindly reach us on the following handles;
+  -  Email: otgisconsult@gmail.com
+  -  Facebook: OTGisandSurveying 
+  -  Instagram: OTgis_and_surveying
+  -  Twitter/X: OTGISSurveying_
+---
+    
+    
   
